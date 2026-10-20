@@ -42,3 +42,8 @@ All open pull requests authored by HeziLiu are in the `mcpmark-eval-liuhezi` org
 - Created the branch `add-triage-log` from the default branch `main`
 - Committed `TRIAGE.md` at the repository root on `add-triage-log` with the message "Add inbox and open-PR triage log"
 - Opened a pull request from `add-triage-log` into `main` with the log
+
+## Follow-up
+
+- Triage log pull request: #2 — https://github.com/mcpmark-eval-liuhezi/sprint-triage-log/pull/2
+- Tracking issue: #1 — https://github.com/mcpmark-eval-liuhezi/sprint-triage-log/issues/1
